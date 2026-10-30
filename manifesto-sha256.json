@@ -113,7 +113,7 @@
   "public/file.svg": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307",
   "public/globe.svg": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9",
   "public/window.svg": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66",
-  "README.md": "150b9f1242b154038c314901a477f08a074f529f2773d5ad94d05fe072909f00",
+  "README.md": "86810086174e6a7df45af50f8dfe1b5b9b984157682c25d3b95a2f9afaa973c6",
   "scripts/build-verified.sh": "2ae5329ac860076070c9217a43106a15cb5ecf907a0f7baeb9ef903f76b53c68",
   "scripts/execution-profile.mjs": "2e71116f4d2b70cff8bb70436f8dd5c709ec7ff62893424530f404e0193d3630",
   "scripts/install-ci.mjs": "63f2c4589b740184b68a0c9214fe92439b6f7d1fbfbec9ef552fd745b0a9c6cc",
